@@ -24,3 +24,11 @@
 |  str   |    nome.nextInt()     |     int x = sc.nextInt()      |
 | double |   nome.nextDouble()   |  double x = sc.nextDouble()   |
 |  char  | nome.next().charAt(0) | char x = sc.next().charAt(0)  |
+
+### Como ler ate a quebra de linha?
+> nome.nextLine()
+
+```Isso permite por exemplo eu inserir "Bom dia" com espaco entre as palavras```
+<br>
+
+```Obs: Qualquer comando sem nextLine a quebra de linha fica pendente ate um nextLine```

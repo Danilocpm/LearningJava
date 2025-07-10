@@ -11,6 +11,8 @@
 |    *     |       Multiplicacao de 2 valores       | 
 |    /     |          Divisao de 2 valores          |
 |    %     | Modulo de 2 valores (resto da divisao) |
+|    ++    |        Incrementa o valor em 1         |
+|    --    |        Decrementa o valor em 1         |
 
 ## Variaveis
 ```A formula de criacao de uma variavel e bem simples sendo <tipo> <nome> = <valor_inicial>```
