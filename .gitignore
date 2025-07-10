@@ -1,0 +1,17 @@
+# Ignora a pasta .idea, exceto configurações úteis
+.idea/*
+!.idea/codeStyles
+!.idea/runConfigurations
+!.idea/inspectionProfiles
+
+# Ignora arquivos específicos do IntelliJ
+*.iml
+
+# Ignora builds
+/out/
+target/
+
+# Ignora dependências
+/.gradle/
+/build/
+/*.class
