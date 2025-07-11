@@ -64,3 +64,7 @@ default:
     break;
 }
 ```
+
+### Condicional Ternaria
+```(condicao) ? valor_se_verdadeiro : valor_se_falso```
+> Acaba sendo um if-else simples de uma linha
